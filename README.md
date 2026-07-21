@@ -18,4 +18,4 @@ This project is a simple cat silhouette keychain designed using Onshape as part 
 - Cat_Silhouette_Keychain.stl
 
 ## Design Link
-https://cad.onshape.com/documents/1ab029d323e00184cb694aa0/w/ac697160ac855cd5068dd505/e/24c417abd4572ef65c08a6d2?renderMode=0&uiState=6a5f765188d8f2adc7664366
+https://cad.onshape.com/documents/1ab029d323e00184cb694aa0/w/ac697160ac855cd5068dd505/e/24c417abd4572ef65c08a6d2?renderMode=0&uiState=6a5f78ef2786051ac2974f23
